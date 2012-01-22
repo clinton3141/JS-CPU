@@ -1,0 +1,6 @@
+JS CPU
+======
+
+I want to get a deeper understanding of what happens inside a CPU so I decided to implement one using JavaScript. I've seen a video on the internet somewhere of a computer which was made with relays, and I'm currently reading a book called Code by Charles Petzold which explains how computers work starting from the basics. I'd really love to build a relay computer, but as it'd involve millions of relays, and lines of code are much cheaper, I thought I'd use JavaScript instead.
+
+
